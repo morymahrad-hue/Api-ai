@@ -1,0 +1,6 @@
+{
+  "name": "MAHRAD AI STUDIO",
+  "description": "Universal AI Gateway and Multi-Modal Creative & Engineering Studio supporting OpenAI-compatible APIs, Gemini, Claude, DeepSeek, Image, Video, Music, Audio, Code, and File Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
